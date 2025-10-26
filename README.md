@@ -1,4 +1,3 @@
-# AURA-project-Agentic-AI-
 # AURA — The Empathetic AI (Multi-Agent System)
 
 > _A Luddy Hackathon Case 4 project. Inspired by **Her**, designed for real emotional support. Locally hosted, modular, and human-centric._
